@@ -1,3 +1,3 @@
 # 06-gitwh-lceschin
 
-Mit Markdown stylen!
+Ich sitze in der Schule, und habe das erstellt.
